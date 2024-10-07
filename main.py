@@ -11,3 +11,7 @@ print( 2 * 2 + 2 == 2 * (2 + 2))
 
 #4th program
 print(int(float('123.456') * 10) % 10)
+
+#5th program (for Github)
+print('1st commit')
+print('2nd commit')
