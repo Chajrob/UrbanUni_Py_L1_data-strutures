@@ -15,3 +15,6 @@ print(int(float('123.456') * 10) % 10)
 #5th program (for Github)
 print('1st commit')
 print('2nd commit')
+
+#6th program (for Github - 2)
+print ('new commit')
